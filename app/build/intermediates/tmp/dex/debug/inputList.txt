@@ -1,0 +1,2 @@
+D:\svnCheckout\ApiDemos\app\build\intermediates\classes\debug
+D:\svnCheckout\ApiDemos\app\build\intermediates\pre-dexed\debug\android-support-v4-dec56a67fb952e6a2fbc39dfa59c9fd7f532a85b.jar
